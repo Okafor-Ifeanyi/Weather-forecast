@@ -1,6 +1,6 @@
 Weather Forcast
 
-A weather Forecast web app developed by django that gets the weather 
+A weather Forecast web app developed with django that gets the weather 
 condition of a major city and returns crutial details of the city like 
 the country code, humidity, temperature and so on.
 
