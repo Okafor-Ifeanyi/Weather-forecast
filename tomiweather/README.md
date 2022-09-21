@@ -6,4 +6,4 @@ the country code, humidity, temperature and so on.
 
 This web app would be of great help on a vacations, you can always check
 how the weather is going to be over there and prepare accordingly. You know 
-what they say about suncreams. 
+what they say about suncreams.  
